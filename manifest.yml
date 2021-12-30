@@ -1,0 +1,5 @@
+repos:
+  - url: git@bitbucket.org:dochipo/webservice.git
+    name: webservice
+  - url: git@bitbucket.org:dochipo/react-application.git
+    name: app
